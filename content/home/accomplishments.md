@@ -33,7 +33,7 @@ item:
 - date_end: ""
   date_start: "2021-02-01"
   description: 'Score: 990/990'
-  organization: ets
+  organization: ETS
   title: TOEIC
 - certificate_url: https://gestiondeprojet.pm/les-laureats-du-mooc-gdp
   date_end: "2019-12-15"
